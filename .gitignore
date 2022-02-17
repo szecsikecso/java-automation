@@ -1,6 +1,9 @@
 # IDE
 .idea
 
+# chrome webdriver
+WebDrivers
+
 # Compiled class file
 *.class
 
