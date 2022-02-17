@@ -4,6 +4,9 @@
 # chrome webdriver
 WebDrivers
 
+# maven
+target
+
 # Compiled class file
 *.class
 
