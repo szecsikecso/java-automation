@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	
+	<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Home Project Test Cases">
+
+	<listeners>
+		<listener
+			class-name="com.home.qa.util.TestListeners" />
+	</listeners>
+
+
+	<test name="Home Project Test Cases">
+		<groups>
+			<run>
+
+			</run>
+		</groups>
+
+		<classes>
+			<class name="com.home.qa.myrunners.Runner"></class>
+		</classes>
+	</test>
+</suite>
