@@ -7,6 +7,9 @@ WebDrivers
 # maven
 target
 
+# Automation Reports
+test-output
+
 # Compiled class file
 *.class
 
