@@ -14,7 +14,7 @@ import io.cucumber.testng.AbstractTestNGCucumberTests;
 		"json:target/myreports/report_json.json",
 		"html:target/myreports/cucumber_report.html"
 	},
-	tags = "@home-1"
+	tags = "@Home"
 )
 
 public class Runner extends AbstractTestNGCucumberTests {
