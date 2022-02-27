@@ -5,5 +5,6 @@ Feature: HomePage
     Given blabla
     Then User can see <Text>
     Examples:
-      | Text           |
-      | "Hello world!" |
+      | Text                                                                                    |
+      | "Hello world!"                                                                          |
+      | "Welcome to WordPress. This is your first post. Edit or delete it, then start writing!" |
