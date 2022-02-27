@@ -6,4 +6,4 @@ Feature: HomePage
     Then User can see <Text>
     Examples:
       | Text           |
-      | "Hello World!" |
+      | "Hello world!" |
